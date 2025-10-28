@@ -1,0 +1,17 @@
+{
+  "name": "User Access Control (DEX50)",
+  "shortName": "dex50_useraccess",
+  "version": "1.0.0",
+  "author": "samucarre",
+  "description": "Validates users against the DEX50 database and blocks (or deletes) suspended/terminated accounts from accessing MeshCentral.",
+  "hasAdminPanel": false,
+  "homepage": "https://github.com/samucarre/MeshCentral-DEX50-UserAccessControl",
+  "changelogUrl": "https://raw.githubusercontent.com/samucarre/MeshCentral-DEX50-UserAccessControl/main/CHANGELOG.md",
+  "configUrl": "https://raw.githubusercontent.com/samucarre/MeshCentral-DEX50-UserAccessControl/main/config.json",
+  "downloadUrl": "https://github.com/samucarre/MeshCentral-DEX50-UserAccessControl/archive/refs/heads/main.zip",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samucarre/MeshCentral-DEX50-UserAccessControl.git"
+  },
+  "meshCentralCompat": ">=1.1.80"
+}
